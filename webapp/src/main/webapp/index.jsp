@@ -99,7 +99,7 @@ h1{
             </ul>
 		
         </header>
-         <h1> **** Monday we are going to start Docker **** </h1>   
+         <h1> **** ----- **** </h1>   
 	 
 
     </section>    
