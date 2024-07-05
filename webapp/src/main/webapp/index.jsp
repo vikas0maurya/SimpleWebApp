@@ -99,7 +99,7 @@ h1{
             </ul>
 		
         </header>
-         <h1> **** Flipkart proving Laptop offers till 15th July2024 **** </h1>   
+         <h1> **** Flipkart proving Laptop & Moble offers till 15th Aug2024 **** </h1>   
 	 
 
     </section>    
