@@ -99,7 +99,7 @@ h1{
             </ul>
 		
         </header>
-         <h1> **** Next weekend we are having Terraform Workshop **** </h1>   
+         <h1> **** CICD Project Testing **** </h1>   
 	 
 
     </section>    
