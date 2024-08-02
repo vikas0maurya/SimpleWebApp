@@ -99,7 +99,7 @@ h1{
             </ul>
 		
         </header>
-         <h1> **** Tomorrow & Dayafter we are going to Work on Ansible and Monday we are going to start Docker **** </h1>   
+         <h1> **** We'll be having extra hours Tomorrow & Dayafter  **** </h1>   
 	 
 
     </section>    
