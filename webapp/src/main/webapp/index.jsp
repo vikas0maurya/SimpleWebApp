@@ -99,7 +99,7 @@ h1{
             </ul>
 		
         </header>
-         <h1> **** We Are going to start Docker on Monday.......... **** </h1>   
+         <h1> **** Most of the project teams using the CICD **** </h1>   
 	 
 
     </section>    
